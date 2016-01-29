@@ -485,3 +485,9 @@ let g:ctrlp_custom_ignore = '\v\.(exe|so|dll)$'
 let g:ctrlp_extensions = ['funky']
 
 let NERDTreeIgnore=['\.pyc']
+
+"----------------------------
+" Add by Aaron.Z
+"----------------------------
+" Use Node.js for JavaScript interpretation
+let $JS_CMD='node'
